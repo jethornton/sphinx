@@ -41,3 +41,9 @@ Open a terminal in the docs directory and run
        make builder
     where "builder" is one of the supported builders, e.g. html, latex or linkcheck.
 
+Open the docs/source/conf.py file and change the theme if you don't like the
+default one.
+
+[sphinx builtin themes]{https://www.sphinx-doc.org/en/master/usage/theming.html)
+[third party themes](https://sphinx-themes.org)
+
