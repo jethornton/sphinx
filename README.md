@@ -1,6 +1,10 @@
 # sphinx
 Building documents with sphinx
 
+Install Sphinx
+
+    sudo apt install python3-sphinx
+
 Open a terminal in the docs directory and run
 
     sphinx-quickstart
